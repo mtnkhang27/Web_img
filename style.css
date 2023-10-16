@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+  
+body {
+    background: #FFF;
+    color: blue;
+}
+  
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+img {
+    max-width:500px;
+    padding: 100px;
+}
+
+#form_upload {
+    display: center;
+    text-align: center;
+    width: 100%;
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
